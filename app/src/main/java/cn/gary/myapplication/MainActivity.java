@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onResume() {
         super.onResume();
         System.out.println("111");
+        System.out.println("121");
         finish();
     }
 }
